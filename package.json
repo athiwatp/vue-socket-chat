@@ -1,0 +1,17 @@
+{
+  "name": "node-vue-socket",
+  "version": "0.0.1",
+  "description": "Simple real time chat application using vue and node",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Anthonie Soriano",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "nedb": "^1.8.0",
+    "socket.io": "^1.7.4"
+  }
+}
